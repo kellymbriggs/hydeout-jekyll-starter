@@ -26,11 +26,14 @@ sidebar-sticky: true
 layout-reverse: false
 remote_theme: fongandrew/hydeout
 google_analytics: ''
-disqus:
-  shortname: ''
 theme: jekyll-theme-hydeout
 markdown: kramdown
 highlighter: rouge
 facebook: https://www.facebook.com/kelly.briggs
 twitter: ''
 instagram: https://www.instagram.com/eastcoastkelly/
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: www-eastcoastkelly-com
