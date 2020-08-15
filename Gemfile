@@ -9,4 +9,7 @@ group :jekyll_plugins do
 	gem "jekyll-feed"
 	gem "jekyll-menus"
 end
+<<<<<<< HEAD
 end
+=======
+>>>>>>> parent of d6a5553... Update Gemfile
