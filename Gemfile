@@ -7,4 +7,8 @@ group :jekyll_plugins do
 	gem "jekyll-paginate"
 	gem "jekyll-feed"
 	gem "jekyll-menus"
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> parent of d6a5553... Update Gemfile
