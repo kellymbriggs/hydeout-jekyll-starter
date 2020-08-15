@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-08-13
-last_modified_at: 2020-08-13 11:14:41 -0300
+last_modified_at: 2020-08-13T11:14:41.000-03:00
 title: " How this One Phrase Can Help Remind you to Slow Down, Declutter your Life
   and Home."
 excerpt: 'A quote that has stayed with me since I started simplifying and minimizing
@@ -20,7 +20,7 @@ tags:
 comments: true
 
 ---
-![A picture of me in the woods with my daughter on my back in the carrier.](/assets/img/20200813_095712_0000_compress38.jpg "meinthewoods")
+![A picture of me in the woods with my daughter on my back.](/assets/img/20200813_095712_0000_compress38.jpg "woods")
 
 **Keep it simple.**
 
