@@ -11,6 +11,7 @@ group :jekyll_plugins do
 <<<<<<< HEAD
 end
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 gem "kramdown-parser-gfm"
 =======
@@ -18,3 +19,5 @@ gem "kramdown-parser-gfm"
 end
 >>>>>>> parent of d6a5553... Update Gemfile
 >>>>>>> parent of eac5b5f... Update Gemfile
+=======
+>>>>>>> parent of d6a5553... Update Gemfile
