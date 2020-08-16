@@ -17,6 +17,7 @@ plugins:
 - jekyll-gist
 - jekyll-paginate
 - jekyll-menus
+-kramdown-parser-gfm
 sidebar_home_link: false
 theme_colors:
   sidebar-bg-color: "#000000"

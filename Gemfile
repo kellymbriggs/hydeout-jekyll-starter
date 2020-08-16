@@ -9,4 +9,4 @@ group :jekyll_plugins do
 	gem "jekyll-menus"
 end
 
-gem "kramdown-parser-gfm
+gem "kramdown-parser-gfm"
