@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 gem "jekyll-theme-hydeout", "~> 4.1"
 gem "jekyll", "~> 3.8"
-gem "kramdown-parser-gfm"
 
 group :jekyll_plugins do
 	gem "jekyll-gist"
@@ -9,3 +8,5 @@ group :jekyll_plugins do
 	gem "jekyll-feed"
 	gem "jekyll-menus"
 end
+
+gem "kramdown-parser-gfm"
