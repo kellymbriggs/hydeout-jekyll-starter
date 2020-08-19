@@ -50,10 +50,14 @@ GEM
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     kramdown (2.3.0)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
+=======
+    kramdown (1.17.0)
+>>>>>>> parent of c3cbb63... Update Gemfile.lock
 =======
     kramdown (1.17.0)
 >>>>>>> parent of c3cbb63... Update Gemfile.lock
